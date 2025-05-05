@@ -1,0 +1,1 @@
+## Inspired by  [no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
